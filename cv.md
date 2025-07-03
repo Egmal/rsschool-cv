@@ -44,6 +44,7 @@ Yes
 ## 🎓 Education
 
 No
+
 ---
 
 ## 🌍 English Language
